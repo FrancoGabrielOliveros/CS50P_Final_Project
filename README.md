@@ -121,7 +121,7 @@ Object **Log** can be accesed in a dictionary using its corresponding **Log ID**
 
 ### Installation
 
-Download the repository by through Clone Repository.
+Download the repository through Clone Repository.
 
     git clone https://github.com/FrancoGabrielOliveros/CS50P_Final_Project.git
 
